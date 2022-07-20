@@ -1,6 +1,6 @@
-import React, {component} from 'react';
+import React, {Component} from 'react';
 
-export default class Counter extends component {
+export default class Counter extends Component {
     render(){
         return(
             <div>
